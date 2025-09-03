@@ -155,6 +155,8 @@ filterButtons.forEach((button) => {
   button.addEventListener("click", handleFilterClick);
 });
 
+
+
 cardContainer.addEventListener("click", handleContainerClick);
 cardContainer.addEventListener("change", handleContainerChange);
 

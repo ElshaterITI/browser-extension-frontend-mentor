@@ -1,13 +1,13 @@
 @font-face {
   font-family: "Noto Sans";
-  src: url(./assets/fonts/NotoSans-VariableFont_wdthwght.ttf);
+  src: url(./assets/fonts/NotoSans-VariableFont.ttf);
 }
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   color: var(--text-primary);
-  font-family: "Noto sans";
+  font-family: "Noto Sans";
   transition: background-color 0.5s, color 0.5s, fill 0.5s;
 }
 
